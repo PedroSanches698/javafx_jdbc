@@ -10,7 +10,7 @@
    <content>
       <VBox prefHeight="343.0" prefWidth="600.0">
          <children>
-            <MenuBar>
+            <MenuBar prefHeight="25.0" prefWidth="359.0">
               <menus>
                 <Menu mnemonicParsing="false" text="Registration">
                   <items>
